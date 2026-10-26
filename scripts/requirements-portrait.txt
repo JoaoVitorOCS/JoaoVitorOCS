@@ -1,0 +1,5 @@
+# só para regerar o retrato localmente (o workflow diário não usa)
+pillow
+numpy
+opencv-python-headless
+rembg[cpu]
