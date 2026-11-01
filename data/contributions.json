@@ -1,17 +1,16 @@
 {
  "username": "JoaoVitorOCS",
- "generated": "2026-10-31",
- "total": 438,
- "current_streak": 11,
- "longest_streak": 11,
+ "generated": "2026-11-01",
+ "total": 457,
+ "current_streak": 13,
+ "longest_streak": 13,
  "best_day": {
   "date": "2026-10-04",
   "level": 4,
   "count": 44
  },
- "active_days": 74,
+ "active_days": 76,
  "monthly": {
-  "2025-10": 0,
   "2025-11": 32,
   "2025-12": 40,
   "2026-01": 36,
@@ -23,44 +22,10 @@
   "2026-07": 3,
   "2026-08": 0,
   "2026-09": 5,
-  "2026-10": 222
+  "2026-10": 227,
+  "2026-11": 14
  },
  "days": [
-  {
-   "date": "2025-10-26",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-27",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-28",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-29",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-30",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-31",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-11-01",
-   "level": 0,
-   "count": 0
-  },
   {
    "date": "2025-11-02",
    "level": 0,
@@ -1878,8 +1843,13 @@
   },
   {
    "date": "2026-10-31",
-   "level": 0,
-   "count": 0
+   "level": 2,
+   "count": 5
+  },
+  {
+   "date": "2026-11-01",
+   "level": 4,
+   "count": 14
   }
  ]
 }
